@@ -1,0 +1,1 @@
+This is the example text file for word count.Word count example in the hadoop ecosystem but we are using it in the different way.we are also taking into consideration stop words like a, the, is, are , of etc and so on.
